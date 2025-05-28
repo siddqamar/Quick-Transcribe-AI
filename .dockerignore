@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+.env.* 
+
+# Logs and runtime files
+*.log
+*.sqlite3
+
+# Git
+.git/
+.gitignore
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Editor directories
+.vscode/
+.idea/
